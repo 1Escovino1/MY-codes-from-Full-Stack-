@@ -1,7 +1,7 @@
 <ul>
     <li>A</li>
     <li>B</li>
-    <ul>
+    <ol>
         <li>A2</li>
         <li>B2</li>
         <ul>
@@ -16,10 +16,11 @@
                     <li>C5</li>
                 </ul>
                 <li>C4</li>
+                <li>D4</li>
             </ul>
             <li>C3</li>
         </ul>
         <li>C2</li>
-    </ul>
+    </ol>
     <li>C</li>
 </ul>
